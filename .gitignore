@@ -1,0 +1,11 @@
+# Секретни данни и бази данни
+config.php
+db_connect.php
+.env
+
+# Зависимости и системни файлове
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
+.vscode/
